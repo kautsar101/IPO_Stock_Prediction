@@ -4,7 +4,7 @@ This repository contains code and resources for predicting the performance of In
 Project Execution Steps
 1. Data Collection
     Objective: Gather historical IPO data to serve as the foundation for analysis and modeling.
-    Method: Scrape IPO data from (https://sahamidx.com/?view=Stock.IPO&path=Stock).
+    Method: Scrape IPO data from ([Indonesia Stock Exchange Website](https://e-ipo.co.id/id/ipo/index)).
     Details: Use web scraping techniques to extract relevant financial and non-financial indicators from the site.
 2. Data Preprocessing
     Objective: Clean and prepare the collected data for analysis.
